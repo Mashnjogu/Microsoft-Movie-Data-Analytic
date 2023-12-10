@@ -35,18 +35,18 @@ With these datasets, we will search for insights in box office performance and u
 Some of the visualisations which were key to this project were:
 ### 1) Time series plot of revenue
 The time series plot shows that throughout the years, studios have been making more revenue via foreign markets than domestic markets
-![example](images/TimeSeries plot of revenues.png)
+![example](images/TimeSeries_plot_of_revenues.png)
 
 ### 2) Domestic and Foreign revenue by studio
 The barchart shows the revenue distribution in the top 10 studios, where foreign gross is higher
-![example](images/domestic and foreign revenue by studio.png)
+![example](images/domestic_and_foreign_revenue_by_studio.png)
 
 ### 3) Distribution of revenue
 This piechart shows the distribution of revenue in the world market
-![example](images/Distribution of revenue.png)
+![example](images/Distribution_of_revenue.png)
 ### 4) Top genres
 This barchart shows the top genres by viwers vote. Action, Drama, Science Fiction lead this category. With these genres, it is expected to generate a higher revenue.
-![example](images/Top ten genres by popularity.png)
+![example](images/Top_ten_genres_by_popularity.png)
 
 
 ## Conlusion
